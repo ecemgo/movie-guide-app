@@ -1,5 +1,5 @@
 <div align="left">
-<img src="https://user-images.githubusercontent.com/13468728/222971073-bcb3e603-5596-4d4b-9cd4-b192b94c20be.png" title="Lyrics Search" alt="Lyrics Search" width="50" height="50"/> <span style="font-size: 2em; font-weight: bold;">Movie Guide App</span>
+<img src="https://user-images.githubusercontent.com/13468728/222971073-bcb3e603-5596-4d4b-9cd4-b192b94c20be.png" title="Movie Guide App" alt="Movie Guide App" width="50" height="50"/> <span style="font-size: 2em; font-weight: bold;">Movie Guide App</span>
 </div>
 
 ## Overview
@@ -15,8 +15,8 @@ However, you need to get your own OMDb API key to run this code properly. For th
 ### Screenshot
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/13468728/222970944-c6b899a9-68dc-48fa-b237-f14714648cfa.jpg" title="Lyrics Search" alt="Lyrics Search" width="600" height="350"/>
-<img src="https://user-images.githubusercontent.com/13468728/222970948-a0598984-963b-4aea-97b2-c26cea4fa2ea.jpg" title="Lyrics Search" alt="Lyrics Search" width="280" height="600"/>
+<img src="https://user-images.githubusercontent.com/13468728/222970944-c6b899a9-68dc-48fa-b237-f14714648cfa.jpg" title="Movie Guide App" alt="Movie Guide App" width="600" height="350"/>
+<img src="https://user-images.githubusercontent.com/13468728/222970948-a0598984-963b-4aea-97b2-c26cea4fa2ea.jpg" title="Movie Guide App" alt="Movie Guide App" width="280" height="600"/>
 </div>
 
 ## The process
