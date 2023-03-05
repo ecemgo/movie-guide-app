@@ -5,7 +5,7 @@ let result = document.getElementById("result");
 //! function to fetch data from api
 let getMovie = () => {
   let movieName = movieNameRef.value;
-  let url = `http://www.omdbapi.com/?t=${movieName}&apikey=${key}`;
+  let url = `https://www.omdbapi.com/?t=${movieName}&apikey=${key}`;
 
   // input field is empty
   if (movieName.length <= 0) {
@@ -38,7 +38,7 @@ let getMovie = () => {
             <p>${data.Plot}</p>
             <h3>Cast:</h3>
             <p>${data.Actors}</p>
-            <h3>Award:</h3>
+            <h3>Awards:</h3>
             <p>${data.Awards}</p>
           </div>
         `;

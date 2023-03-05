@@ -8,11 +8,14 @@
 }
 
 body {
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   background-color: #170d24;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   background-image: radial-gradient(
       ellipse at 10% 90%,
       #3c2d83 0%,
@@ -27,6 +30,7 @@ main {
   font-size: 1em;
   width: 90vw;
   max-width: 37.5em;
+  height: auto;
   padding: 3em 1.8em;
   position: absolute;
   border-radius: 0.6em;
@@ -167,6 +171,7 @@ p,
 @media screen and (max-width: 600px) {
   main {
     font-size: 14px;
+    margin-top: 8em;
   }
 
   .poster {
@@ -179,13 +184,4 @@ p,
     grid-template-columns: 1fr;
   }
 }
-
-
-         
-/* .search-container button {
-  
-    display: block;
-  }
-
-
    
