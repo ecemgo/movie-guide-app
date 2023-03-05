@@ -1,6 +1,4 @@
-<div align="left">
-<img src="https://user-images.githubusercontent.com/13468728/222971073-bcb3e603-5596-4d4b-9cd4-b192b94c20be.png" title="Movie Guide App" alt="Movie Guide App" width="50" height="50"/> <span style="font-size: 2em; font-weight: bold;">Movie Guide App</span>
-</div>
+# <img src="https://user-images.githubusercontent.com/13468728/222971073-bcb3e603-5596-4d4b-9cd4-b192b94c20be.png" title="Movie Guide App" alt="Movie Guide App" width="50" height="50"/> Movie Guide App
 
 ## Overview
 
