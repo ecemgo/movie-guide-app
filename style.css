@@ -32,7 +32,7 @@ main {
   max-width: 37.5em;
   height: auto;
   padding: 3em 1.8em;
-  position: absolute;
+  margin: 2em;
   border-radius: 0.6em;
   background: linear-gradient(
     50deg,
@@ -103,7 +103,7 @@ main {
   left: 0;
   top: 100%;
   width: 100%;
-  max-height: 20em;
+  max-height: 21em;
   overflow-y: scroll;
   z-index: 10;
 }
@@ -262,10 +262,9 @@ p,
   text-align: center;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 550px) {
   main {
     font-size: 14px;
-    margin-top: 8em;
   }
 
   .poster {

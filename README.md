@@ -13,9 +13,9 @@ However, you need to get your own OMDb API key to run this code properly. For th
 ### Screenshot
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/13468728/223198444-064f6f37-4c98-4230-9841-e8f9660cbb56.jpg" title="Movie Guide App" alt="Movie Guide App" width="600" height="350"/>
-<img src="https://user-images.githubusercontent.com/13468728/222970944-c6b899a9-68dc-48fa-b237-f14714648cfa.jpg" title="Movie Guide App" alt="Movie Guide App" width="600" height="350"/>
-<img src="https://user-images.githubusercontent.com/13468728/222970948-a0598984-963b-4aea-97b2-c26cea4fa2ea.jpg" title="Movie Guide App" alt="Movie Guide App" width="280" height="600"/>
+<img src="https://user-images.githubusercontent.com/13468728/223208216-2447fad0-8176-46f9-a083-267bebe60daa.jpg" title="Movie Guide App" alt="Movie Guide App" width="600" height="350"/>
+<img src="https://user-images.githubusercontent.com/13468728/223208227-8cdf889e-516c-4430-9aa0-b4da681af76e.jpg" title="Movie Guide App" alt="Movie Guide App" width="600" height="350"/>
+<img src="https://user-images.githubusercontent.com/13468728/223208239-248500df-e78f-4a4a-8ffd-342c175dddfa.jpg" title="Movie Guide App" alt="Movie Guide App" width="280" height="600"/>
 </div>
 
 ## The process
