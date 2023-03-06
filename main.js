@@ -180,37 +180,3 @@ window.addEventListener("click", (e) => {
     searchList.classList.add("hide-search-list");
   }
 });
-
-movieSearchBox.addEventListener("keydown", selectElement);
-window.curIndex = -1;
-
-function selectElement(e) {
-  var totalItems = document.querySelectorAll(".search-list-item").length;
-  var selected = document.querySelector(".search-list-item.hover");
-  console.log(e.keyCode);
-
-  if (e.keyCode === 13 && selected) {
-    movieSearchBox.value = selected.textContent;
-  } else {
-    console.log(window.curIndex);
-    if (e.keyCode === 40) {
-      window.curIndex = (window.curIndex + 1) % totalItems;
-    } else if (e.keyCode === 38) {
-      window.curIndex =
-        window.curIndex <= 0 ? totalItems - 1 : window.curIndex - 1;
-    }
-    console.log(window.curIndex);
-    if (selected) {
-      selected.classList.remove("hover");
-    }
-
-    var selector =
-      ".container .element:nth-child(" + (window.curIndex + 1) + ")";
-    console.log(selector);
-    selected = document.querySelector(selector);
-    if (selected) {
-      console.log("Adding hover");
-      selected.classList.add("hover");
-    }
-  }
-}
