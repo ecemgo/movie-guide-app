@@ -13,10 +13,26 @@
 <body>
     <main>
         <div class="search-container">
-            <input type="text" id="movie-name" placeholder="Type movie name here.." value="House of The Dragon">
+            <div class="search-element">
+                <input type="text" class="form-control" id="movie-name" placeholder="Type movie name here.." onkeyup="findMovies()" onclick="findMovies()">
+                
+                <div class="search-list" id="search-list">
+                    <!-- list here -->
+                    <!-- <div class = "search-list-item">
+                        <div class = "search-item-thumbnail">
+                            <img src = "medium-cover.jpg">
+                        </div>
+                        <div class = "search-item-info">
+                            <h3>Guardians of the Galaxy Vol. 2</h3>
+                            <p>2017</p>
+                        </div>
+                    </div> -->
+                </div>
+            </div>
             <button id="search-btn">Search</button>
         </div>  
-        <div id="result"></div>
+
+        <div id="result-grid"></div>
     </main>
 
 <script src="key.js"></script>

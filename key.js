@@ -3,6 +3,5 @@
 //* You'll be sent a verification link containing your API key via email.
 //* Then, you'll need to type that key below.
 
-// API KEY
-
-key = "";
+// Sample API KEY - "fc1fef96"
+key = "fc1fef96";
