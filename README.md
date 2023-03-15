@@ -2,9 +2,9 @@
 
 ## Overview
 
-This is an app where users can search for movies and series by typing their names. Their title, poster, rating, plot, cast, genres, and awards are listed through the Fetch API. Additionally, https://www.omdbapi.com/ was used as an API to get information about movies and series.
+This is an app where users can search for movies and series by typing their names. Their title, poster, rating, plot, cast, genres, and awards are listed through the Fetch API. Additionally, [OMDb API](https://www.omdbapi.com/) was used as an API to get information about movies and series.
 
-However, you need to get your own OMDb API key to run this code properly. For that, you have to sign up for an account at http://www.omdbapi.com/apikey.aspx. You'll be sent a verification link containing your API key via email. Then, you'll need to type that key in key.js.
+However, you need to get your own OMDb API key to run this code properly. For that, you have to sign up for an account at [OMDb API](http://www.omdbapi.com/apikey.aspx). You'll be sent a verification link containing your API key via email. Then, you'll need to type that key in key.js.
 
 ### Link
 
