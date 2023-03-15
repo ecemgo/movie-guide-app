@@ -23,7 +23,6 @@ However, you need to get your own OMDb API key to run this code properly. For th
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Javascript
 - Fetch API
 - Flexbox
