@@ -53,7 +53,7 @@ main {
 .search-container input,
 .search-container button {
   font-size: 0.9rem;
-  outline: none;
+  outline-color: transparent;
   border-radius: 0.3rem;
 }
 
