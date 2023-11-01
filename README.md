@@ -6,6 +6,12 @@ This is an app where users can search for movies and series by typing their name
 
 However, you need to get your own OMDb API key to run this code properly. For that, you have to sign up for an account at [OMDb API](http://www.omdbapi.com/apikey.aspx). You'll be sent a verification link containing your API key via email. Then, you'll need to type that key in key.js.
 
+### The Tools I Used:
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+
 ### Link
 
 - [Live Site](https://ecemgo-movie-guide-app.netlify.app)
@@ -40,4 +46,4 @@ However, you need to get your own OMDb API key to run this code properly. For th
 
 - Website - [ecemgo.com](https://www.ecemgo.com/)
 - Twitter - [@ecemgo](https://twitter.com/ecemgo)
-- Frontend Mentor - [@ecemgo](https://www.frontendmentor.io/profile/ecemgo)
+- CodePen - [@ecemgo](https://codepen.io/ecemgo)
