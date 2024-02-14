@@ -14,7 +14,7 @@ However, you need to get your own OMDb API key to run this code properly. For th
 
 ### Link
 
-- [Live Site](https://ecemgo-movie-guide-app.netlify.app)
+- [Live](https://ecemgo-movie-guide-app.netlify.app)
 
 ### Screenshot
 
